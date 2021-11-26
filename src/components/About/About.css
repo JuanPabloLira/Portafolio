@@ -1,0 +1,21 @@
+.about {
+    padding : 2rem 0;
+    background-color: #e4e9f3;
+}
+
+.description p {
+    font-size: calc(.9rem + .1vw) !important;
+    text-align: justify;
+}
+
+.list-skills {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.list-skills img {
+    height: 50px;
+    width: 50px;
+    padding: .3rem;
+}
